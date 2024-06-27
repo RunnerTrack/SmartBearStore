@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B265732C-7D10-4D5C-88DE-04DC147DDC98}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45470.3157407407" objectName="Sys.Browser().BrowserWindow(0)" objectLeft="298" objectTop="80" objectRight="319" objectBottom="90" clickPointX="308" clickPointY="89" imageFileName="tcvi636918765722.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="45470.3158333333" objectName="Sys.Browser().Page(&quot;https://smartbearstore.smartbear.com/samples/TestComplete14/smartstore/&quot;).FindElement(&quot;#instasearch&quot;)" objectLeft="575" objectTop="163" objectRight="1178" objectBottom="206" clickPointX="656" clickPointY="189" imageFileName="tcvi637729665724.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45470.3159375" objectName="Sys.Browser().Page(&quot;https://smartbearstore.smartbear.com/samples/TestComplete14/smartstore/&quot;).FindElement(&quot;#instasearch&quot;)" objectLeft="388" objectTop="163" objectRight="1179" objectBottom="206" clickPointX="577" clickPointY="182" imageFileName="tcvi638562565726.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
